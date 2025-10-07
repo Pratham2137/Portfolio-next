@@ -6,7 +6,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col justify-center items-center text-center bg-gradient-to-b from-white to-blue-50 pt-20"
+      className="min-h-screen flex flex-col justify-center items-center text-center pt-20 w-full"
     >
       <div className="max-w-3xl px-4">
         <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 leading-tight">
